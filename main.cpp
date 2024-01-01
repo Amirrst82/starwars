@@ -1,4 +1,4 @@
-#include <iostream>
+S#include <iostream>
 #include <time.h>
 #include <stdlib.h>
 using namespace std;
@@ -56,4 +56,6 @@ void places()
 		cout << endl ;	
 	}	
 	cout << " --- --- --- --- --- --- --- --- --- ---";
+	
+	cout << "88";
 }
